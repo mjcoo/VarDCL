@@ -12,7 +12,9 @@ Encoder Methods of TransFormer Block
 
 KAN.py: Methods of KAN-Liner Module for Defined Classifier
 
-
+data:
+training dataset:train.label
+testing dataset:test.label
 
 Usage
 
@@ -35,4 +37,5 @@ training
 prediction of mutation effects
 
 2\.python test.py 
+
 
